@@ -1,1 +1,2 @@
 # TicketsVR1
+Tickets VR1 is a ticket management system where users can create a ticket and send it to the selected department. Once the ticket is assigned, the system allows the user to communicate directly with the department, keeping the conversation organized and focused.  The department can update the ticket with progress reports, and the user can track the status in real time. This way, the system ensures transparency and an efficient workflow for resolving issues or handling requests.
