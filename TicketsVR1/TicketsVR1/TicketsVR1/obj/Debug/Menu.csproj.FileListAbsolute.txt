@@ -1,0 +1,10 @@
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\bin\Debug\Menu.exe.config
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\bin\Debug\Menu.exe
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\bin\Debug\Menu.pdb
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\obj\Debug\Menu.exe
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\obj\Debug\Menu.pdb
+X:\Proyectos\VisualStudioCode\Menu\Menu\Menu\obj\Debug\Menu.Menu.resources
