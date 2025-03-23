@@ -1,7 +1,7 @@
 ﻿
 namespace Menu
 {
-    partial class Menu
+    public partial class Menu
     {
         /// <summary>
         /// Variable del diseñador necesaria.

@@ -16,5 +16,16 @@ namespace TicketsVR1
         {
             InitializeComponent();
         }
+
+        private void btnSignIn_Click(object sender, EventArgs e)
+        {
+            // Login logic...
+
+            // Open the main menu
+            this.Hide();
+            Form Menu = new Form();
+            Menu.Show();
+            Menu.FormClosed += (s, args) => this.Show();
+        }
     }
 }

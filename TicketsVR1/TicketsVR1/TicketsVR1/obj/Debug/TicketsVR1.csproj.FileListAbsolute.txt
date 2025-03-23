@@ -25,3 +25,17 @@ X:\Proyectos\VisualStudioCode\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\Tickets
 X:\Proyectos\VisualStudioCode\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.csproj.CoreCompileInputs.cache
 X:\Proyectos\VisualStudioCode\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.exe
 X:\Proyectos\VisualStudioCode\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.pdb
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\bin\Debug\TicketsVR1.exe.config
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\bin\Debug\TicketsVR1.exe
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\bin\Debug\TicketsVR1.pdb
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.csproj.AssemblyReference.cache
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.Login.resources
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\Menu.Menu.resources
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\Menu.SubForms.Dashboard.resources
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\Menu.MyTickets.resources
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.Properties.Resources.resources
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.SubForms.Ticket.resources
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.csproj.GenerateResource.cache
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.csproj.CoreCompileInputs.cache
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.exe
+C:\Users\VRI\Source\Repos\TicketsVR1\TicketsVR1\TicketsVR1\TicketsVR1\obj\Debug\TicketsVR1.pdb

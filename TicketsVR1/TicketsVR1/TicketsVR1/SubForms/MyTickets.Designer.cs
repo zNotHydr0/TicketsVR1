@@ -30,30 +30,43 @@ namespace Menu
         private void InitializeComponent()
         {
             this.lblTittle = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.lbTickets = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // lblTittle
             // 
             this.lblTittle.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblTittle.AutoSize = true;
-            this.lblTittle.Font = new System.Drawing.Font("JetBrains Mono Medium", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTittle.Location = new System.Drawing.Point(230, 18);
+            this.lblTittle.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTittle.Location = new System.Drawing.Point(15, 22);
+            this.lblTittle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTittle.Name = "lblTittle";
-            this.lblTittle.Size = new System.Drawing.Size(164, 31);
+            this.lblTittle.Size = new System.Drawing.Size(199, 40);
             this.lblTittle.TabIndex = 12;
             this.lblTittle.Text = "My Tickets";
             // 
+            // lbTickets
+            // 
+            this.lbTickets.FormattingEnabled = true;
+            this.lbTickets.ItemHeight = 20;
+            this.lbTickets.Location = new System.Drawing.Point(49, 98);
+            this.lbTickets.Name = "lbTickets";
+            this.lbTickets.Size = new System.Drawing.Size(905, 464);
+            this.lbTickets.TabIndex = 13;
+            // 
             // MyTickets
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(672, 399);
+            this.ClientSize = new System.Drawing.Size(1008, 614);
+            this.Controls.Add(this.lbTickets);
             this.Controls.Add(this.lblTittle);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "MyTickets";
             this.Text = "MyTickets";
-            this.Load += new System.EventHandler(this.MyTickets_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -62,5 +75,7 @@ namespace Menu
         #endregion
 
         private System.Windows.Forms.Label lblTittle;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.ListBox lbTickets;
     }
 }
